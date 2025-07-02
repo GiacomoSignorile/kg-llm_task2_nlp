@@ -1,0 +1,23 @@
+
+## Page 37
+
+### Text on Page 37
+da parte di programmi per elaboratori e sono provvi sti dei relativi metadati;   3) sono resi disponibili gratuitamente attraverso l e tecnologie dell'informazione e della comunicazion e, ivi  comprese le reti telematiche pubbliche e private, o ppure sono resi disponibili ai costi marginali sost enuti per  la loro riproduzione e divulgazione. L'Agenzia per l'Italia digitale deve stabilire, con propria delib erazione, i  casi eccezionali, individuati secondo criteri ogget tivi, trasparenti e verificabili, in cui essi sono resi disponibili  a tariffe superiori ai costi marginali. In ogni cas o, l'Agenzia, nel trattamento dei casi eccezionali individuati, si  attiene alle indicazioni fomite dalla Direttiva Eur opea sul riutilizzo dell'Informazione Pubblica (Dir .  2003/98/CE), recepita con decreto legislativo 24 ge nnaio 2006, n. 36.   4. Il DigitPA istruisce ed aggiorna, con periodicit à almeno annuale, un repertorio dei formati aperti utilizzabili  nelle pubbliche amministrazioni e delle modalità di  trasferimento dei formati. 
+
+Art. 69. Riuso dei programmi informatici.  
+
+1. Le pubbliche amministrazioni che siano titolari di programmi informatici realizzati su specifiche i ndicazioni  del committente pubblico, hanno obbligo di darli in  formato sorgente, completi della documentazione  disponibile, in uso gratuito ad altre pubbliche amm inistrazioni che li richiedono e che intendano adat tarli alle  proprie esigenze, salvo motivate ragioni. (195) 
+
+2. Al fine di favorire il riuso dei programmi infor matici di proprietà delle pubbliche amministrazioni , ai sensi  del comma 1, nei capitolati o nelle specifiche di p rogetto è previsto ove possibile, che i programmi  appositamente sviluppati per conto e a spese dell'a mministrazione siano facilmente portabili su altre  piattaforme e conformi alla definizione e regolamen tazione effettuata da DigitPA, ai sensi dell'artico lo 68,  comma 2.  
+
+3. Le pubbliche amministrazioni inseriscono, nei co ntratti per l'acquisizione di programmi informatici  o di  singoli moduli, di cui al comma 1, clausole che gar antiscano il diritto di disporre dei programmi ai f ini del  riuso da parte della medesima o di altre amministra zioni. (197) 
+
+4. Nei contratti di acquisizione di programmi infor matici sviluppati per conto e a spese delle amminis trazioni,  le stesse possono includere clausole, concordate co n il fornitore, che tengano conto delle caratterist iche  economiche ed organizzative di quest'ultimo, volte a vincolarlo, per un determinato lasso di tempo, a fornire,  su richiesta di altre amministrazioni, servizi che consentono il riuso dei programmi o dei singoli mod uli. Le  clausole suddette definiscono le condizioni da osse rvare per la prestazione dei servizi indicati.   Art. 70. Banca dati dei programmi informatici riuti lizzabili. 
+
+1. DigitPA, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 19 97, n. 281,  valuta e rende note applicazioni tecnologiche reali zzate dalle pubbliche amministrazioni, idonee al ri uso da  parte di altre pubbliche amministrazioni anche con riferimento a singoli moduli, segnalando quelle che , in  base alla propria valutazione, si configurano quali  migliori pratiche organizzative e tecnologiche.  
+
+2. Le pubbliche amministrazioni centrali che intend ono acquisire programmi applicativi valutano  preventivamente la possibilità di riuso delle appli cazioni analoghe rese note dal DigitPA ai sensi del  comma 1,  motivandone l'eventuale mancata adozione.   Capo VII - Regole tecniche   Art. 71. Regole tecniche.  
+
+1. Le regole tecniche previste nel presente codice sono dettate, con decreti del Presidente del Consig lio dei  Ministri o del Ministro delegato per la pubblica am ministrazione e l'innovazione, di concerto con i Mi nistri  competenti, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 19 97, n. 281,  ed il Garante per la protezione dei dati personali nelle materie di competenza, previa acquisizione  obbligatoria del parere tecnico di DigitPA. 
+
+1-bis. (abrogato)

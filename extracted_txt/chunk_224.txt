@@ -1,0 +1,39 @@
+
+## Page 21
+
+### Text on Page 21
+4. Le modalità di revoca o sospensione sono previst e nelle regole tecniche di cui all'articolo 71. 
+
+Art. 37. Cessazione dell'attività.  
+
+1. Il certificatore qualificato o accreditato che i ntende cessare l'attività deve, almeno sessanta gio rni prima  della data di cessazione, darne avviso al DigitPA e  informare senza indugio i titolari dei certificati  da lui  emessi specificando che tutti i certificati non sca duti al momento della cessazione saranno revocati. 
+
+2. Il certificatore di cui al comma 1 comunica cont estualmente la rilevazione della documentazione da parte  di altro certificatore o l'annullamento della stess a. L'indicazione di un certificatore sostitutivo ev ita la revoca  di tutti i certificati non scaduti al momento della  cessazione. 
+
+3. Il certificatore di cui al comma 1 indica altro depositario del registro dei certificati e della re lativa  documentazione. 
+
+4. Il DigitPA rende nota la data di cessazione dell 'attività del certificatore accreditato tramite l'e lenco di cui  all'articolo 29, comma 6.  
+
+4-bis. Qualora il certificatore qualificato cessi l a propria attività senza indicare, ai sensi del com ma 2, un  certificatore sostitutivo e non si impegni a garant ire la conservazione e la disponibilità della docum entazione  prevista dagli articoli 33 e 32, comma 3, lettera j ) e delle ultime liste di revoca emesse, deve provv edere al  deposito presso DigitPA che ne garantisce la conser vazione e la disponibilità.  
+
+Sezione III - Trasferimenti di fondi, libri e scrit ture 
+
+Art. 38. Trasferimenti di fondi. 
+
+1. Il trasferimento in via telematica di fondi tra pubbliche amministrazioni e tra queste e soggetti p rivati è  effettuato secondo le regole tecniche stabilite ai sensi dell'articolo 71 di concerto con i Ministri p er la  funzione pubblica, della giustizia e dell'economia e delle finanze, sentiti il Garante per la protezio ne dei dati  personali e la Banca d'Italia. 
+
+Art. 39. Libri e scritture.  
+
+1. I libri, i repertori e le scritture, ivi compres i quelli previsti dalla legge sull'ordinamento del notariato e degli  archivi notarili, di cui sia obbligatoria la tenuta  possono essere formati e conservati su supporti in formatici in  conformità alle disposizioni del presente codice e secondo le regole tecniche stabilite ai sensi dell' articolo 71.   Capo III - Formazione, gestione e conservazione dei  documenti informatici 
+
+Art. 40. Formazione di documenti informatici.  
+
+1. Le pubbliche amministrazioni formano gli origina li dei propri documenti con mezzi informatici secon do le  disposizioni di cui al presente codice e le regole tecniche di cui all'articolo 71.  
+
+2. (abrogato)  
+
+3. Con apposito regolamento, da emanarsi entro 180 giorni dalla data di entrata in vigore del presente   codice, ai sensi dell'articolo 17, comma 1, della l egge 23 agosto 1988, n. 400, sulla proposta dei Min istri  delegati per la funzione pubblica, per l'innovazion e e le tecnologie e del Ministro per i beni e le at tività  culturali, sono individuate le categorie di documen ti amministrativi che possono essere redatti in ori ginale  anche su supporto cartaceo in relazione al particol are valore di testimonianza storica ed archivistica  che sono  idonei ad assumere. 
+
+4. Il Presidente del Consiglio dei Ministri, con pr opri decreti, fissa la data dalla quale viene ricon osciuto il  valore legale degli albi, elenchi, pubblici registr i ed ogni altra raccolta di dati concernenti stati,  qualità  personali e fatti già realizzati dalle amministrazi oni, su supporto informatico, in luogo dei registri  cartacei. 
+
+Art. 40-bis. Protocollo informatico.

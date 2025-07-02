@@ -1,0 +1,5 @@
+
+## Page 241
+
+### Text on Page 241
+dove  Ci  = coefficiente attribuito al concorrente iesimo    Ai  = valore dell’offerta (ribasso)  del concorrente iesimo    Asoglia  = media aritmetica dei valori delle offerte  (ribasso sul prezzo) dei concorrenti    X  = 0,80 oppure 0,85 oppure 0,90  (indicare nei documenti di gara quale delle tre  percentuali va applicata)    Amax   = valore dell’offerta (ribasso)  più conveniente [definizione aggiunta dal redattore]   Di = T i / T medio   dove:  Ti = la riduzione percentuale del tempo formulata dal  concorrente iesimo;  Tmedio  = la media aritmetica delle riduzioni percentuali del tempo; per le riduzioni percentuali  maggiori della riduzione media il coefficiente è as sunto pari ad uno.

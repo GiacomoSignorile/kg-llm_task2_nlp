@@ -1,0 +1,21 @@
+
+## Page 39
+
+### Text on Page 39
+normativa vigente, le pubbliche amministrazioni con  gli uffici italiani all'estero, garantendo adeguat i livelli di  sicurezza e qualità.   Sezione II - Sistema pubblico di connettività SPC   Art. 75. Partecipazione al Sistema pubblico di conn ettività.  1. Al SPC partecipano tutte le amministrazioni di c ui all'articolo 2, comma 2. 
+
+2. Il comma 1 non si applica alle amministrazioni d i cui al decreto legislativo 30 marzo 2001, n. 165,   limitatamente all'esercizio delle sole funzioni di ordine e sicurezza pubblica, difesa nazionale, cons ultazioni  elettorali. 
+
+3. Ai sensi dell'articolo 3 del d.P.R. 11 novembre 1994, n. 680, nonché dell'articolo 25 del decreto l egislativo  30 giugno 2003, n. 196, è comunque garantita la con nessione con il SPC dei sistemi informativi degli  organismi competenti per l'esercizio delle funzioni  di sicurezza e difesa nazionale, nel loro esclusiv o interesse  e secondo regole tecniche che assicurino riservatez za e sicurezza. È altresì garantita la possibilità di  connessione al SPC delle autorità amministrative in dipendenti. 
+
+3-bis. Il gestore di servizi pubblici e i soggetti che perseguono finalità di pubblico interesse posso no usufruire  della connessione al SPC e dei relativi servizi, ad eguandosi alle vigenti regole tecniche, previa deli bera della  Commissione di cui all'articolo 79. 
+
+Art. 76. Scambio di documenti informatici nell'ambi to del Sistema pubblico di connettività.  
+
+1. Gli scambi di documenti informatici tra le pubbl iche amministrazioni nell'ambito del SPC, realizzat i  attraverso la cooperazione applicativa e nel rispet to delle relative procedure e regole tecniche di si curezza,  costituiscono invio documentale valido ad ogni effe tto di legge. 
+
+Art. 77. Finalità del Sistema pubblico di connettiv ità. 
+
+1. Al SPC sono attribuite le seguenti finalità:   a) fornire un insieme di servizi di connettività co ndivisi dalle pubbliche amministrazioni interconnes se, definiti  negli aspetti di funzionalità, qualità e sicurezza,  ampiamente graduabili in modo da poter soddisfare le  differenti esigenze delle pubbliche amministrazioni  aderenti al SPC;  b) garantire l'interazione della pubblica amministr azione centrale e locale con tutti gli altri sogget ti connessi a  Internet, nonché con le reti di altri enti, promuov endo l'erogazione di servizi di qualità e la miglio r fruibilità  degli stessi da parte dei cittadini e delle imprese ;  c) fornire un'infrastruttura condivisa di interscam bio che consenta l'interoperabilità tra tutte le re ti delle  pubbliche amministrazioni esistenti, favorendone lo  sviluppo omogeneo su tutto il territorio nella  salvaguardia degli investimenti effettuati;  d) fornire servizi di connettività e cooperazione a lle pubbliche amministrazioni che ne facciano richi esta, per  permettere l'interconnessione delle proprie sedi e realizzare così anche l'infrastruttura interna di  comunicazione;  e) realizzare un modello di fornitura dei servizi m ultifornitore coerente con l'attuale situazione di mercato e le  dimensioni del progetto stesso;  f) garantire lo sviluppo dei sistemi informatici ne ll'ambito del SPC salvaguardando la sicurezza dei d ati, la  riservatezza delle informazioni, nel rispetto dell' autonomia del patrimonio informativo delle singole  amministrazioni e delle vigenti disposizioni in mat eria di protezione dei dati personali.   Art. 78. Compiti delle pubbliche amministrazioni ne l Sistema pubblico di connettività. 
+
+1. Le pubbliche amministrazioni nell'ambito della l oro autonomia funzionale e gestionale adottano nell a  progettazione e gestione dei propri sistemi informa tivi, ivi inclusi gli aspetti organizzativi, soluzi oni tecniche  compatibili con la cooperazione applicativa con le altre pubbliche amministrazioni, secondo le regole tecniche  di cui all'articolo 73, comma 3-bis. Le stesse pubb liche amministrazioni, ove venga loro attribuito, p er norma,  il compito di gestire soluzioni infrastrutturali pe r l'erogazione di servizi comuni a più amministrazi oni,

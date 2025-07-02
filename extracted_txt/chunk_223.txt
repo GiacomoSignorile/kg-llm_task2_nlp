@@ -1,0 +1,21 @@
+
+## Page 20
+
+### Text on Page 20
+Art. 35. Dispositivi sicuri e procedure per la gene razione della firma.  
+
+1. I dispositivi sicuri e le procedure utilizzate p er la generazione delle firme devono presentare req uisiti di  sicurezza tali da garantire che la chiave privata:   a) sia riservata;  b) non possa essere derivata e che la relativa firm a sia protetta da contraffazioni;  c) possa essere sufficientemente protetta dal titol are dall'uso da parte di terzi.   2. I dispositivi sicuri e le procedure di cui al co mma 1 devono garantire l'integrità dei documenti in formatici a  cui la firma si riferisce. I documenti informatici devono essere presentati al titolare, prima dell'ap posizione  della firma, chiaramente e senza ambiguità, e si de ve richiedere conferma della volontà di generare la  firma  secondo quanto previsto dalle regole tecniche di cu i all'articolo 71. 
+
+3. Il secondo periodo del comma 2 non si applica al le firme apposte con procedura automatica. La firma  con  procedura automatica è valida se apposta previo con senso del titolare all'adozione della procedura  medesima. 
+
+4. I dispositivi sicuri di firma devono essere dota ti di certificazione di sicurezza ai sensi dello sc hema  nazionale di cui al comma 5. 
+
+5. La conformità dei requisiti di sicurezza dei dis positivi per la creazione di una firma qualificata prescritti  dall'allegato III della direttiva 1999/93/CE è acce rtata, in Italia, dall'Organismo di certificazione della  sicurezza informatica in base allo schema nazionale  per la valutazione e certificazione di sicurezza n el settore  della tecnologia dell'informazione, fissato con dec reto del Presidente del Consiglio dei Ministri, o, per sua  delega, del Ministro per l'innovazione e le tecnolo gie, di concerto con i Ministri delle comunicazioni , delle  attività produttive e dell'economia e delle finanze . L'attuazione dello schema nazionale non deve dete rminare  nuovi o maggiori oneri per il bilancio dello Stato.  Lo schema nazionale può prevedere altresì la valut azione e  la certificazione relativamente ad ulteriori criter i europei ed internazionali, anche riguardanti altr i sistemi e  prodotti afferenti al settore suddetto. La valutazi one della conformità del sistema e degli strumenti di  autenticazione utilizzati dal titolare delle chiavi  di firma è effettuata dall'Agenzia per l'Italia di gitale in  conformità ad apposite linee guida da questa emanat e, acquisito il parere obbligatorio dell'Organismo di  certificazione della sicurezza informatica.  (comma così modificato dall'art. 15, comma 5-ter, l egge n. 221 del 2012)  
+
+6. La conformità di cui al comma 5 è inoltre ricono sciuta se accertata da un organismo all'uopo design ato da  un altro Stato membro e notificato ai sensi dell'ar ticolo 11, paragrafo 1, lettera b), della direttiva   1999/93/CE. 
+
+Art. 36. Revoca e sospensione dei certificati quali ficati. 
+
+1. Il certificato qualificato deve essere a cura de l certificatore:   a) revocato in caso di cessazione dell'attività del  certificatore salvo quanto previsto dal comma 2 de ll'articolo  37;  b) revocato o sospeso in esecuzione di un provvedim ento dell'autorità;  c) revocato o sospeso a seguito di richiesta del ti tolare o del terzo dal quale derivano i poteri del titolare,  secondo le modalità previste nel presente codice;  d) revocato o sospeso in presenza di cause limitati ve della capacità del titolare o di abusi o falsifi cazioni.   2. Il certificato qualificato può, inoltre, essere revocato o sospeso nei casi previsti dalle regole t ecniche di cui  all'articolo 71. 
+
+3. La revoca o la sospensione del certificato quali ficato, qualunque ne sia la causa, ha effetto dal m omento  della pubblicazione della lista che lo contiene. Il  momento della pubblicazione deve essere attestato  mediante adeguato riferimento temporale.

@@ -1,0 +1,20 @@
+# -----------------------------------------------------------------------------
+# Requirements for the KG+LLM Project
+# To install, run: pip install -r requirements.txt
+# -----------------------------------------------------------------------------
+
+# --- Core LightRAG and LLM Libraries ---
+lightrag-hku        # The main library for KG extraction and RAG
+ollama              # The official Python client for the Ollama LLM server
+
+# --- Knowledge Graph & Database ---
+neo4j               # The official Python driver for the Neo4j graph database
+networkx            # For in-memory graph manipulation (often a dependency of graph libraries)
+
+# --- Data Handling and Document Processing ---
+pandas              # For easy data manipulation and displaying results in tables
+pypdf2              # A dependency for reading and processing PDF files
+
+# --- Optional but Recommended for Notebooks ---
+jupyterlab          # For running the project in a Jupyter environment
+ipykernel           # To ensure the Jupyter kernel works correctly with the environment

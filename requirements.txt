@@ -1,0 +1,4 @@
+kg-gen==0.2.0
+neo4j-graphrag==1.7.0
+openai==1.61.0
+json-repair>=0.39.1,<0.40.0

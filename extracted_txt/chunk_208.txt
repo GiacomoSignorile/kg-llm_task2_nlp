@@ -1,0 +1,23 @@
+
+## Page 5
+
+### Text on Page 5
+casi devono comunque essere rese disponibili modali tà di pagamento di cui alla lettera b) del medesimo   comma 1.   3-bis. I micro-pagamenti dovuti a titolo di corrisp ettivo dalle pubbliche amministrazioni di cui all'a rticolo 1,  comma 450, della legge 27 dicembre 2006, n. 296, co me modificato dall' articolo 7, comma 2, del decreto- legge 7 maggio 2012, n. 52, convertito, con modific azioni, dalla legge 6 luglio 2012, n. 94 , per i contratti di  acquisto di beni e servizi conclusi tramite gli str umenti elettronici di cui al medesimo articolo 1, c omma 450,  stipulati nelle forme di cui all' articolo 11, comma 13, del codice di cui al decreto  legislativo 12 aprile 2006, n.  163 , e successive modificazioni, sono effettuati media nte strumenti elettronici di pagamento se richiesto   dalle imprese fornitrici.   3-ter. Con decreto del Ministero dell'economia e de lle finanze da pubblicare entro il 1° marzo 2013 so no  definiti i micro-pagamenti in relazione al volume c omplessivo del contratto e sono adeguate alle final ità di cui  al comma 3-bis le norme relative alle procedure di pagamento delle pubbliche amministrazioni di cui al  citato  articolo 1, comma 450, della legge n. 296 del 2006.  Le medesime pubbliche amministrazioni provvedono a d  adeguare le proprie norme al fine di consentire il pagamento elettronico per gli acquisti di cui al co mma 3-bis  entro il 1° gennaio 2013.   4. L'Agenzia per l'Italia digitale, sentita la Banc a d'Italia, definisce linee guida per la specifica dei codici  identificativi del pagamento di cui al comma 1, let tere a) e b) e le modalità attraverso le quali il p restatore  dei servizi di pagamento mette a disposizione dell'  ente le informazioni relative al pagamento medesim o.   5. Le attività previste dal presente articolo si sv olgono con le risorse umane, finanziarie e strument ali  disponibili a legislazione vigente.  
+
+Art. 5-bis. Comunicazioni tra imprese e amministraz ioni pubbliche.  
+
+1. La presentazione di istanze, dichiarazioni, dati  e lo scambio di informazioni e documenti, anche a fini  statistici, tra le imprese e le amministrazioni pub bliche avviene esclusivamente utilizzando le tecnol ogie  dell'informazione e della comunicazione. Con le med esime modalità le amministrazioni pubbliche adottan o e  comunicano atti e provvedimenti amministrativi nei confronti delle imprese. 
+
+2. Con decreto del Presidente del Consiglio dei Ministri , su proposta del Ministro per la pubblica  amministrazione e l'innovazione, di concerto con il  Ministro dello sviluppo economico e con il Ministr o per la  semplificazione normativa, sono adottate le modalit à di attuazione del comma 1 da parte delle pubblich e  amministrazioni centrali e fissati i relativi termi ni. 
+
+3. DigitPA, anche avvalendosi degli uffici di cui a ll'articolo 17, provvede alla verifica dell'attuazi one del  comma 1 secondo le modalità e i termini indicati ne l decreto di cui al comma 2. 
+
+4. Il Governo promuove l'intesa con regioni ed enti  locali in sede di Conferenza unificata per l'adozi one degli  indirizzi utili alla realizzazione delle finalità d i cui al comma 1. 
+
+Art. 6. Utilizzo della posta elettronica certificat a. 
+
+1. Per le comunicazioni di cui all'articolo 48, com ma 1, con i soggetti che hanno preventivamente dich iarato il  proprio indirizzo ai sensi della vigente normativa tecnica, le pubbliche amministrazioni utilizzano la  posta  elettronica certificata. La dichiarazione dell'indi rizzo vincola solo il dichiarante e rappresenta esp ressa  accettazione dell'invio, tramite posta elettronica certificata, da parte delle pubbliche amministrazio ni, degli  atti e dei provvedimenti che lo riguardano. 
+
+1-bis. La consultazione degli indirizzi di posta el ettronica certificata, di cui agli articoli 16, com ma 10, e 16- bis, comma 5, del decreto-legge 29 novembre 2008, n . 185, convertito, con modificazioni, dalla legge 2 8  gennaio 2009, n. 2, e l'estrazione di elenchi dei s uddetti indirizzi, da parte delle pubbliche amminis trazioni è  effettuata sulla base delle regole tecniche emanate  da DigitPA, sentito il Garante per la protezione d ei dati  personali. 
+
+2. (abrogato)
