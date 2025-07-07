@@ -1,0 +1,267 @@
+2025-07-07 17:26:31,782 - lightrag - INFO - Process 21731 KV load full_docs with 0 records
+2025-07-07 17:26:31,782 - lightrag - INFO - Process 21731 KV load text_chunks with 0 records
+2025-07-07 17:26:31,782 - lightrag - INFO - Process 21731 KV load llm_response_cache with 0 records
+2025-07-07 17:26:31,783 - lightrag - INFO - Process 21731 doc status load doc_status with 0 records
+2025-07-07 17:26:31,799 - lightrag - INFO - Chunk-entity-relation at neo4j://localhost:7687 not found. try to create specified database.
+2025-07-07 17:26:31,800 - lightrag - INFO - Chunk-entity-relation at neo4j://localhost:7687 not found. try to create specified database.
+2025-07-07 17:26:31,818 - lightrag - WARNING - This Neo4j instance does not support creating databases. Try to use Neo4j Desktop/Enterprise version or DozerDB instead. Fallback to use the default database.
+2025-07-07 17:26:31,818 - lightrag - WARNING - This Neo4j instance does not support creating databases. Try to use Neo4j Desktop/Enterprise version or DozerDB instead. Fallback to use the default database.
+2025-07-07 17:26:31,825 - lightrag - INFO - Connected to None at neo4j://localhost:7687
+2025-07-07 17:26:31,826 - lightrag - INFO - Connected to None at neo4j://localhost:7687
+2025-07-07 17:26:31,841 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-07-07 17:26:31,841 - lightrag - INFO - Storage Initialization completed!
+2025-07-07 17:26:33,304 - lightrag - INFO - Storage Finalization completed!
+2025-07-07 17:28:26,963 - lightrag - INFO - Process 23433 KV load full_docs with 0 records
+2025-07-07 17:28:26,963 - lightrag - INFO - Process 23433 KV load text_chunks with 0 records
+2025-07-07 17:28:26,963 - lightrag - INFO - Process 23433 KV load llm_response_cache with 0 records
+2025-07-07 17:28:26,963 - lightrag - INFO - Process 23433 doc status load doc_status with 0 records
+2025-07-07 17:28:26,978 - lightrag - INFO - Chunk-entity-relation at neo4j://localhost:7687 not found. try to create specified database.
+2025-07-07 17:28:26,978 - lightrag - INFO - Chunk-entity-relation at neo4j://localhost:7687 not found. try to create specified database.
+2025-07-07 17:28:26,994 - lightrag - WARNING - This Neo4j instance does not support creating databases. Try to use Neo4j Desktop/Enterprise version or DozerDB instead. Fallback to use the default database.
+2025-07-07 17:28:26,994 - lightrag - WARNING - This Neo4j instance does not support creating databases. Try to use Neo4j Desktop/Enterprise version or DozerDB instead. Fallback to use the default database.
+2025-07-07 17:28:27,005 - lightrag - INFO - Connected to None at neo4j://localhost:7687
+2025-07-07 17:28:27,005 - lightrag - INFO - Connected to None at neo4j://localhost:7687
+2025-07-07 17:28:27,015 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-07-07 17:28:27,015 - lightrag - INFO - Storage Initialization completed!
+2025-07-07 17:28:27,156 - lightrag - INFO - Storage Finalization completed!
+2025-07-07 17:28:50,156 - lightrag - INFO - Process 23523 KV load full_docs with 0 records
+2025-07-07 17:28:50,156 - lightrag - INFO - Process 23523 KV load text_chunks with 0 records
+2025-07-07 17:28:50,157 - lightrag - INFO - Process 23523 KV load llm_response_cache with 0 records
+2025-07-07 17:28:50,157 - lightrag - INFO - Process 23523 doc status load doc_status with 0 records
+2025-07-07 17:28:50,170 - lightrag - INFO - Chunk-entity-relation at neo4j://localhost:7687 not found. try to create specified database.
+2025-07-07 17:28:50,170 - lightrag - INFO - Chunk-entity-relation at neo4j://localhost:7687 not found. try to create specified database.
+2025-07-07 17:28:50,187 - lightrag - WARNING - This Neo4j instance does not support creating databases. Try to use Neo4j Desktop/Enterprise version or DozerDB instead. Fallback to use the default database.
+2025-07-07 17:28:50,188 - lightrag - WARNING - This Neo4j instance does not support creating databases. Try to use Neo4j Desktop/Enterprise version or DozerDB instead. Fallback to use the default database.
+2025-07-07 17:28:50,196 - lightrag - INFO - Connected to None at neo4j://localhost:7687
+2025-07-07 17:28:50,196 - lightrag - INFO - Connected to None at neo4j://localhost:7687
+2025-07-07 17:28:50,202 - lightrag - INFO - Storage Initialization completed!
+2025-07-07 17:28:50,202 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-07-07 17:28:50,391 - lightrag - INFO - Stored 1 new unique documents
+2025-07-07 17:28:50,391 - lightrag - INFO - Processing 1 document(s)
+2025-07-07 17:28:50,391 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-07-07 17:28:50,391 - lightrag - INFO - Processing d-id: doc-134aa6d4d5e776ee3a3919e51a609663
+2025-07-07 17:28:51,225 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-07-07 17:33:03,701 - lightrag - INFO -  == LLM cache == saving default: a746e09dc51cdaaee2271a72c53e68af
+2025-07-07 17:33:51,340 - lightrag - ERROR - Error in ollama_embed: 
+2025-07-07 17:33:51,340 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:33:51,341 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:33:51,341 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:33:51,341 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:33:51,341 - lightrag - ERROR - Error in ollama_embed: 
+2025-07-07 17:33:51,342 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:33:51,497 - lightrag - ERROR - Error in ollama_embed: 
+2025-07-07 17:33:51,497 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:33:51,497 - lightrag - ERROR - Error in ollama_embed: 
+2025-07-07 17:33:51,497 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:33:51,497 - lightrag - ERROR - Error in ollama_embed: 
+2025-07-07 17:33:51,497 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:33:51,507 - lightrag - ERROR - Traceback (most recent call last):
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/lightrag.py", line 1006, in process_document
+    await asyncio.gather(*tasks)
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/kg/nano_vector_db_impl.py", line 109, in upsert
+    embeddings_list = await asyncio.gather(*embedding_tasks)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/utils.py", line 585, in wait_func
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/utils.py", line 241, in __call__
+    return await self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/llm/ollama.py", line 165, in ollama_embed
+    raise e
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/llm/ollama.py", line 154, in ollama_embed
+    data = await ollama_client.embed(model=embed_model, input=texts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/ollama/_client.py", line 879, in embed
+    return await self._request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/ollama/_client.py", line 632, in _request_raw
+    r = await self._client.request(*args, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+2025-07-07 17:33:51,507 - lightrag - ERROR - Failed to extract document 1/1: unknown_source
+2025-07-07 17:33:51,536 - lightrag - INFO - Document processing pipeline completed
+2025-07-07 17:38:51,561 - lightrag - ERROR - Error in ollama_embed: 
+2025-07-07 17:38:51,563 - lightrag - ERROR - limit_async: Error in decorated function: 
+2025-07-07 17:51:43,247 - lightrag - INFO - Creating a new event loop in main thread.
+2025-07-07 17:55:35,111 - lightrag - INFO - Process 24957 KV load full_docs with 0 records
+2025-07-07 17:55:35,112 - lightrag - INFO - Process 24957 KV load text_chunks with 0 records
+2025-07-07 17:55:35,112 - lightrag - INFO - Process 24957 KV load llm_response_cache with 0 records
+2025-07-07 17:55:35,112 - lightrag - INFO - Process 24957 doc status load doc_status with 0 records
+2025-07-07 17:55:35,126 - lightrag - INFO - Chunk-entity-relation at neo4j://localhost:7687 not found. try to create specified database.
+2025-07-07 17:55:35,126 - lightrag - INFO - Chunk-entity-relation at neo4j://localhost:7687 not found. try to create specified database.
+2025-07-07 17:55:35,142 - lightrag - WARNING - This Neo4j instance does not support creating databases. Try to use Neo4j Desktop/Enterprise version or DozerDB instead. Fallback to use the default database.
+2025-07-07 17:55:35,142 - lightrag - WARNING - This Neo4j instance does not support creating databases. Try to use Neo4j Desktop/Enterprise version or DozerDB instead. Fallback to use the default database.
+2025-07-07 17:55:35,147 - lightrag - INFO - Connected to None at neo4j://localhost:7687
+2025-07-07 17:55:35,148 - lightrag - INFO - Connected to None at neo4j://localhost:7687
+2025-07-07 17:55:35,154 - lightrag - INFO - limit_async: 16 new workers initialized
+2025-07-07 17:55:35,154 - lightrag - INFO - Storage Initialization completed!
+2025-07-07 17:55:36,697 - lightrag - INFO - Stored 1 new unique documents
+2025-07-07 17:55:36,697 - lightrag - INFO - Processing 1 document(s)
+2025-07-07 17:55:36,697 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-07-07 17:55:36,697 - lightrag - INFO - Processing d-id: doc-134aa6d4d5e776ee3a3919e51a609663
+2025-07-07 17:55:37,563 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-07-07 17:55:40,655 - lightrag - ERROR - limit_async: Error in decorated function: llama runner process no longer running: 2  (status code: 500)
+2025-07-07 17:55:40,657 - lightrag - ERROR - limit_async: Error in decorated function: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+2025-07-07 17:55:40,657 - lightrag - ERROR - limit_async: Error in decorated function: llama runner process no longer running: 2  (status code: 500)
+2025-07-07 17:55:40,657 - lightrag - ERROR - limit_async: Error in decorated function: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)
+2025-07-07 17:55:40,678 - lightrag - ERROR - Failed to extract entities and relationships: llama runner process no longer running: 2  (status code: 500)
+2025-07-07 17:55:40,684 - lightrag - ERROR - Traceback (most recent call last):
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/lightrag.py", line 1006, in process_document
+    await asyncio.gather(*tasks)
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/lightrag.py", line 1204, in _process_entity_relation_graph
+    raise e
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/lightrag.py", line 1190, in _process_entity_relation_graph
+    chunk_results = await extract_entities(
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/operate.py", line 1316, in extract_entities
+    raise task.exception()
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/operate.py", line 1292, in _process_with_semaphore
+    return await _process_single_content(chunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/operate.py", line 1215, in _process_single_content
+    final_result = await use_llm_func_with_cache(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/utils.py", line 1586, in use_llm_func_with_cache
+    res: str = await use_llm_func(input_text, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/utils.py", line 585, in wait_func
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/utils.py", line 369, in worker
+    result = await func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/llm/ollama.py", line 130, in ollama_model_complete
+    return await _ollama_model_if_cache(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/tenacity/asyncio/__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/tenacity/asyncio/__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/tenacity/asyncio/__init__.py", line 153, in iter
+    result = await action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/tenacity/_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+                                     ^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/tenacity/asyncio/__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/llm/ollama.py", line 109, in _ollama_model_if_cache
+    raise e
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/lightrag/llm/ollama.py", line 72, in _ollama_model_if_cache
+    response = await ollama_client.chat(model=model, messages=messages, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/ollama/_client.py", line 854, in chat
+    return await self._request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/ollama/_client.py", line 692, in _request
+    return cls(**(await self._request_raw(*args, **kwargs)).json())
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/giacomo/Documents/kg+llm_task2_nlp/.conda/lib/python3.11/site-packages/ollama/_client.py", line 636, in _request_raw
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: llama runner process no longer running: 2  (status code: 500)
+
+2025-07-07 17:55:40,684 - lightrag - ERROR - Failed to extract document 1/1: unknown_source
+2025-07-07 17:55:40,713 - lightrag - INFO - Document processing pipeline completed
+2025-07-07 17:56:31,499 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,499 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,501 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,502 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,503 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,503 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,504 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,504 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,505 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,505 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,507 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,507 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,508 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,508 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,510 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,510 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,512 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,512 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,513 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,513 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,514 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,514 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,514 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,514 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,515 - lightrag - ERROR - Error in ollama_embed: Server disconnected without sending a response.
+2025-07-07 17:56:31,515 - lightrag - ERROR - limit_async: Error in decorated function: Server disconnected without sending a response.
+2025-07-07 17:56:31,517 - lightrag - ERROR - Error in _get_vector_context: Server disconnected without sending a response.
+2025-07-07 17:56:31,547 - lightrag - INFO - Creating a new event loop in main thread.
