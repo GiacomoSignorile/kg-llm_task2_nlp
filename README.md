@@ -1,4 +1,4 @@
-# KG+LLM Task 2: Italian Public Administration Law Analysis
+# KG+LLM Task 2: Empulia PA Regulation Analysis
 
 This repository contains a comprehensive Knowledge Graph + Large Language Model (KG+LLM) system for analyzing EmPULIA Public Administration (PA) regulations documents. The project uses LightRAG for knowledge graph extraction and retrieval-augmented generation to process and query documents in Italian.
 
