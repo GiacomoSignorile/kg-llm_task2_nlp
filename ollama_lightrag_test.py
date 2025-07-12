@@ -14,7 +14,6 @@ from dotenv import load_dotenv
 load_dotenv(dotenv_path=".env", override=False)
 
 WORKING_DIR = "./output_lightrag"
-# --- Neo4j Database Configuration ---
 os.environ["NEO4J_URI"] = "neo4j://localhost:7687"
 os.environ["NEO4J_USERNAME"] = "neo4j"
 os.environ["NEO4J_PASSWORD"] = "giacomo3234" 
@@ -22,22 +21,19 @@ os.environ["NEO4J_PASSWORD"] = "giacomo3234"
 def configure_logging():
     """Configure logging for the application"""
 
-    # Reset any existing handlers to ensure clean configuration
     for logger_name in ["uvicorn", "uvicorn.access", "uvicorn.error", "lightrag"]:
         logger_instance = logging.getLogger(logger_name)
         logger_instance.handlers = []
         logger_instance.filters = []
 
-    # Get log directory path from environment variable or use current directory
     log_dir = os.getenv("LOG_DIR", os.getcwd())
     log_file_path = os.path.abspath(os.path.join(log_dir, "lightrag_ollama_demo.log"))
 
     print(f"\nLightRAG compatible demo log file: {log_file_path}\n")
     os.makedirs(os.path.dirname(log_file_path), exist_ok=True)
 
-    # Get log file max size and backup count from environment variables
-    log_max_bytes = int(os.getenv("LOG_MAX_BYTES", 10485760))  # Default 10MB
-    log_backup_count = int(os.getenv("LOG_BACKUP_COUNT", 5))  # Default 5 backups
+    log_max_bytes = int(os.getenv("LOG_MAX_BYTES", 10485760)) 
+    log_backup_count = int(os.getenv("LOG_BACKUP_COUNT", 5)) 
 
     logging.config.dictConfig(
         {
@@ -76,9 +72,8 @@ def configure_logging():
         }
     )
 
-    # Set the logger level to INFO
     logger.setLevel(logging.INFO)
-    # Enable verbose debug if needed
+
     set_verbose_debug(os.getenv("VERBOSE_DEBUG", "false").lower() == "true")
 
 
@@ -87,7 +82,7 @@ if not os.path.exists(WORKING_DIR):
 
 
 async def initialize_rag():
-    rag = None  # Initialize rag before try block
+    rag = None  
     try:
         rag = LightRAG(
             working_dir=WORKING_DIR,
@@ -151,10 +146,8 @@ async def main():
                 os.remove(file_path)
                 print(f"Deleting old file:: {file_path}")
 
-        # Initialize RAG instance
         rag = await initialize_rag()
 
-        # Test embedding function
         test_text = ["This is a test string for embedding."]
         embedding = await rag.embedding_func(test_text)
         embedding_dim = embedding.shape[1]
@@ -167,7 +160,6 @@ async def main():
         with open("./extracted_txt/combined_output.txt", "r", encoding="utf-8") as f:
             await rag.ainsert(f.read())
 
-        # Perform naive search
         print("\n=====================")
         print("Query mode: naive")
         print("=====================")
@@ -228,7 +220,6 @@ async def main():
 
 
 if __name__ == "__main__":
-    # Configure logging before running the main function
     configure_logging()
     asyncio.run(main())
     print("\nDone!")
